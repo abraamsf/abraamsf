@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Focusing+on+Web+Development+and+Software+Engineer" alt="Typing SVG" />
 </p>
 
-
-
-Hi, My name is Abrams Fariz, I am a student at Binus University Majoring Computer Science, Cloud Technology
-
 ---
 
 ## 🌌 About Me
