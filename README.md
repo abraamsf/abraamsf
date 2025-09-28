@@ -59,8 +59,9 @@ Simple tool to detect phishing links.
 <p align="center">
   <a href="https://github.com/abraamsf" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abrams-fariz-950a69291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abramsfprawiroyudho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+📧 Email: **abramsfprawiroyudho@gmail.com**
 
 ---
 
