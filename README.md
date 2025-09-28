@@ -67,8 +67,8 @@ Simple tool to detect phishing links.
 - 📧 Email: **abramsfprawiroyudho@gmail.com**
 
 
-## 🤝 Social Media
-- 📸 Instagram: [@abramsf]
+## social media
+- 📸 Instagram: @abramsf
 
 
 
