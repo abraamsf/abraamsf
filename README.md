@@ -2,8 +2,9 @@
 <h1 align="center">Hi , I'm Abrams Fariz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Focusing+on+Web+Development+and+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=An+Undergraduate+Computer+Science+Student;Focusing+on+Web+Development+and+Software+Engineer" alt="Typing SVG" />
 </p>
+
 
 ---
 
