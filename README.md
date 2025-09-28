@@ -62,8 +62,8 @@ Simple tool to detect phishing links.
 ---
 
 ## 🌐 Connect with Me
-- GitHub: [github.com/abraamsf](https://github.com/abraamsf){:target="_blank"}
-- LinkedIn: [linkedin.com/in/abrams-fariz-950a69291](https://www.linkedin.com/in/abrams-fariz-950a69291/){:target="_blank"}
+- GitHub: [github.com/abraamsf](https://github.com/abraamsf)
+- LinkedIn: [linkedin.com/in/abrams-fariz-950a69291](https://www.linkedin.com/in/abrams-fariz-950a69291/)
 - Email: **abramsfprawiroyudho@gmail.com**
 
 
