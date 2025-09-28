@@ -8,11 +8,17 @@ Hi, My name is Abrams Fariz, I am a student at Binus University Majoring Compute
 ---
 
 ## 🌌 About Me
-- 🎓 Currently a **5th semester Computer Science student**  
-- ☁️ Specializing in **Cloud Computing** and exploring cloud-native technologies  
-- 💻 Passionate about **Web Development**, **Machine Learning**, and **Cybersecurity**  
-- 🚀 Always eager to learn new skills and contribute to impactful projects  
-- 🎯 
+Hello! My name is **Abrams Fariz Prawiroyudho**, a **5th semester Computer Science student** with a strong interest in building scalable, efficient, and impactful software solutions.  
+
+I am currently focusing on **Cloud Computing** as my specialization, where I explore cloud-native technologies, deployment strategies, and distributed systems. Alongside my academic journey, I also have a growing passion for:  
+
+- 🎨 **Front-End Development** → crafting responsive and user-friendly interfaces using modern web technologies  
+- ☁️ **Cloud Computing Technologies** → learning cloud platforms such as AWS and Google Cloud for deployment and infrastructure management  
+- 📱 **Mobile Programming** → exploring mobile application development to create cross-platform solutions  
+- 🧩 **Object-Oriented Programming (OOP)** → applying OOP principles to write clean, reusable, and maintainable code  
+
+I enjoy combining my technical knowledge with creativity to design applications that are both functional and user-focused. My long-term goal is to become a versatile software engineer who can work across different areas of technology, from **frontend development** to **cloud deployment**.  
+
 
 ---
 
