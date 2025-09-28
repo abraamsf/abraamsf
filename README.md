@@ -51,7 +51,6 @@ Simple tool to detect phishing links.
 ---
 
 
-<p align="center">
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -69,7 +68,6 @@ Simple tool to detect phishing links.
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-</p>
 
 ---
 
