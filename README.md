@@ -16,22 +16,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraamsf&layout=compact&theme=radical" alt="langs" height="180"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" alt="stats" height="180"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abraamsf&layout=compact&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraamsf&layout=compact&theme=radical" alt="langs" height="180"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-🔹 **[Snake-Game](https://github.com/abraamsf/Snake-Game)**  
+🔹 <a href="https://github.com/abraamsf/Snake-Game" target="_blank"><b>Snake-Game</b></a>  
 Classic Snake Game built in C as a final project.  
 `C | Console-based`
 
-🔹 **[Custom-Fit](https://github.com/abraamsf/Custom-Fit)**  
+🔹 <a href="https://github.com/abraamsf/Custom-Fit" target="_blank"><b>Custom-Fit</b></a>  
 Website for designing T-shirts online.  
 `HTML | CSS | JavaScript`
 
-🔹 **[Phishing-Link-Detector](https://github.com/abraamsf/Phising-Link-Detector)**  
+🔹 <a href="https://github.com/abraamsf/Phising-Link-Detector" target="_blank"><b>Phishing-Link-Detector</b></a>  
 Simple tool to detect phishing links.  
 `HTML | JavaScript`
 
@@ -51,8 +55,8 @@ Simple tool to detect phishing links.
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/abraamsf"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abrams-fariz-950a69291/", target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/abraamsf" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abramsfariz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
