@@ -79,5 +79,6 @@ Simple tool to detect phishing links.
 
 
 ---
-
+<p align="center">
 contact me: abramsfprawiroyudho@gmail.com
+</p>
