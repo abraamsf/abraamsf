@@ -1,15 +1,16 @@
-# https-github.com-abraamsf-abraamsf
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abrams+Fariz!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning+and+Building" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abrams+Fariz!;Computer+Science+Student+%7C+Cloud+Computing;Always+Learning+and+Building" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🌌 About Me
-- 💻 Interested in **Web Development**, **Machine Learning**, and **Cybersecurity**  
-- 🚀 Always eager to learn new technologies and apply them to real projects  
-- 🎯 Seeking internship opportunities to gain practical experience  
+- 🎓 Currently a **5th semester Computer Science student**  
+- ☁️ Specializing in **Cloud Computing** and exploring cloud-native technologies  
+- 💻 Passionate about **Web Development**, **Machine Learning**, and **Cybersecurity**  
+- 🚀 Always eager to learn new skills and contribute to impactful projects  
+- 🎯 Looking for internship opportunities to gain hands-on industry experience  
 
 ---
 
@@ -42,6 +43,8 @@ Simple tool to detect phishing links.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
