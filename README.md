@@ -8,7 +8,7 @@ Hi, My name is Abrams Fariz, I am a student at Binus University Majoring Compute
 ---
 
 ## 🌌 About Me
-Hello! My name is **Abrams Fariz Prawiroyudho**, a **5th semester Computer Science student** with a strong interest in building scalable, efficient, and impactful software solutions.  
+Hello! My name is **Abrams Fariz**, a **5th semester Computer Science student** with a strong interest in building scalable, efficient, and impactful software solutions.  
 
 I am currently focusing on **Cloud Computing** as my specialization, where I explore cloud-native technologies, deployment strategies, and distributed systems. Alongside my academic journey, I also have a growing passion for:  
 
