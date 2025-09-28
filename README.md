@@ -50,7 +50,7 @@ Simple tool to detect phishing links.
 
 ---
 
-## 🛠️ Tech Stack
+
 <p align="center">
 ## 🛠️ Tech Stack
 <p align="center">
