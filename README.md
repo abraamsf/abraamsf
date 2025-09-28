@@ -80,4 +80,4 @@ Simple tool to detect phishing links.
 
 ---
 
-contact me at: @abramsfprawiroyudho@gmail.com
+contact me: abramsfprawiroyudho@gmail.com
