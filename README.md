@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abrams+Fariz!;Computer+Science+Student+%7C+Cloud+Computing;Always+Learning+and+Building" alt="Typing SVG">
 </p>
 
+Hi, My name is Abrams Fariz, I am a student at Binus University Majoring Computer Science, Cloud Technology
+
 ---
 
 ## 🌌 About Me
@@ -10,7 +12,7 @@
 - ☁️ Specializing in **Cloud Computing** and exploring cloud-native technologies  
 - 💻 Passionate about **Web Development**, **Machine Learning**, and **Cybersecurity**  
 - 🚀 Always eager to learn new skills and contribute to impactful projects  
-- 🎯 Looking for internship opportunities to gain hands-on industry experience  
+- 🎯 
 
 ---
 
