@@ -1,7 +1,9 @@
 <!-- Banner -->
+<h1 align="center">Hi , I'm Abrams Fariz 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abrams+Fariz!;Computer+Science+Student+%7C+Cloud+Computing;Always+Learning+and+Building" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C325&center=true&vCenter=true&width=435&lines=An+Undergraduate+Computer+Science+Student" alt="Typing SVG" />
 </p>
+
 
 Hi, My name is Abrams Fariz, I am a student at Binus University Majoring Computer Science, Cloud Technology
 
