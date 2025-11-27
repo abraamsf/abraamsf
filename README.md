@@ -14,6 +14,10 @@ I’m Abrams Fariz, a Computer Science student at Bina Nusantara University spec
 
 ---
 
+🔭 Currently working on a cloud-based application using Docker
+🌱 Learning Kubernetes, container orchestration, and serverless architectures
+👯 Open to collaboration on Cloud Infrastructure, DevOps, or backend-related projects
+
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" target="_blank">
