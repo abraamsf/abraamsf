@@ -77,7 +77,7 @@ Simple tool to detect phishing links.
   <a href="https://github.com/abraamsf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/abrams-fariz-950a69291/" target="_blank">
+  <a href="https://www.linkedin.com/in/abramsf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/abramsf" target="_blank">
