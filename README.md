@@ -13,10 +13,16 @@ I’m Abrams Fariz, a Computer Science student at Bina Nusantara University spec
 
 
 ---
+## 🚀 Overview
 
-🔭 Currently working on a cloud-based application using Docker
-🌱 Learning Kubernetes, container orchestration, and serverless architectures
-👯 Open to collaboration on Cloud Infrastructure, DevOps, or backend-related projects
+- 🔭 **Currently Working On:**  
+  Currently working on a cloud-based application using Docker
+
+- 🌱 **Currently Learning:**  
+  **Kubernetes**, container orchestration, and serverless architectures.
+
+- 👯 **Available to Collaborate On:**  
+  **Cloud Infrastructure**, **DevOps**, and backend-related projects.
 
 ## 📊 GitHub Stats
 <p align="center">
