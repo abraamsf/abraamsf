@@ -31,7 +31,7 @@ I'm Abrams Fariz, a Computer Science student at Bina Nusantara University. I bui
 A modern task management app with a clean, interactive UI — fluid animations, a dark-mode glassmorphism design, and data persistence.
 `React | JavaScript | CSS`
 
-🔹 <a href="https://github.com/abraamsf/Kost-Hunter" target="_blank"><b>Kost Hunter</b></a> — *Fullstack*
+🔹 <a href="https://github.com/abraamsf/kost-hunter-app" target="_blank"><b>Kost Hunter</b></a> — *Fullstack*
 A web-based boarding-house search app powered by a Spring Boot backend, with comprehensive filters to help students find a kost easily.
 `React | Spring Boot | Java | MySQL`
 
@@ -92,12 +92,15 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=abraamsf&show_icons=true&theme=radical" alt="stats" height="180"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abraamsf&layout=compact&theme=radical" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraamsf&layout=compact&theme=radical" alt="langs" height="180"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="GitHub profile details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive time" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
 ---
