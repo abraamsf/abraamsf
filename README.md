@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi, I'm Abrams Fariz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
+<h1 align="center">Hi, I'm Abrams Fariz</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;UI%2FUX+Designer;Aspiring+AI+Engineer;Computer+Science+Student+%40+BINUS" alt="Typing SVG" />
@@ -7,41 +7,41 @@
 
 ---
 
-## 🌌 About Me
+## About Me
 I'm Abrams Fariz, a Computer Science student at Bina Nusantara University. I build end-to-end web applications — from designing clean, user-centered interfaces to wiring up the backend and data behind them. My focus is **fullstack development** and **UI/UX design**, and I'm steadily growing into **AI engineering** by integrating machine learning into the products I build. This space collects my projects, experiments, and progress as I level up across the stack.
 
 ---
 
-## 🚀 Overview
+## Overview
 
-- 🔭 **Currently Building (Thesis):**
+- **Currently Building (Thesis):**
   A **blockchain-based anti-scalper e-ticketing platform** using Smart Contracts to eliminate ticket fraud through public-ledger transparency.
 
-- 🌱 **Currently Learning:**
+- **Currently Learning:**
   **TypeScript**, scalable React patterns, and applied AI — integrating LLM/ML features into web apps.
 
-- 👯 **Open to Collaborate On:**
+- **Open to Collaborate On:**
   **Fullstack web projects**, **UI/UX design**, and **AI-powered applications**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-🔹 <a href="https://github.com/abraamsf/ToDo-App" target="_blank"><b>ToDo App</b></a> — *Fullstack & UI/UX*
+- <a href="https://github.com/abraamsf/ToDo-App" target="_blank"><b>ToDo App</b></a> — *Fullstack & UI/UX*
 A modern task management app with a clean, interactive UI — fluid animations, a dark-mode glassmorphism design, and data persistence.
 `React | JavaScript | CSS`
 
-🔹 <a href="https://github.com/abraamsf/kost-hunter-app" target="_blank"><b>Kost Hunter</b></a> — *Fullstack*
-A web-based boarding-house search app powered by a Spring Boot backend, with comprehensive filters to help students find a kost easily.
-`React | Spring Boot | Java | MySQL`
+- <a href="https://github.com/abraamsf/kost-hunter-app" target="_blank"><b>Kost Hunter</b></a> — *Fullstack*
+A web-based boarding-house search app powered by a Java backend, with comprehensive filters to help students find a kost easily.
+`React | Java | MySQL`
 
-🔹 <a href="https://github.com/abraamsf/GPA-Calculator" target="_blank"><b>GPA Calculator</b></a> — *Utility*
+- <a href="https://github.com/abraamsf/GPA-Calculator" target="_blank"><b>GPA Calculator</b></a> — *Utility*
 A lightweight tool for calculating student GPAs, with grade prediction and graduation-target tracking.
 `JavaScript | HTML | CSS`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center"><b>Frontend & Design</b></p>
 <p align="center">
@@ -59,7 +59,6 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -81,7 +80,6 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 
 <p align="center"><b>Cloud, DevOps & Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,7 +88,7 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/abraamsf/abraamsf/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="GitHub profile details" />
 </p>
@@ -105,7 +103,7 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 
 ---
 
-## 🌐 Socials
+## Socials
 <p align="center">
   <a href="https://github.com/abraamsf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
@@ -120,5 +118,5 @@ A lightweight tool for calculating student GPAs, with grade prediction and gradu
 
 ---
 <p align="center">
-  📫 Contact me: <b>abramsfprawiroyudho@gmail.com</b>
+  Contact me: <b>abramsfprawiroyudho@gmail.com</b>
 </p>
